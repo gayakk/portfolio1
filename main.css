@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #333;
+}
+.nme{
+    color: whitesmoke;
+    margin-right: 70%;
+}
+.nme:hover{
+    color: aqua;
+}
+.home:hover{
+    opacity: 0.8;
+}
+.dis{
+    text-align: center;
+    color: greenyellow;
+}
+.navigation{
+    height: 100%;
+    width: 100%;
+    padding-top: 0px;
+    background-color: #696969;
+    color: green;
+    margin-right: 3%;
+    margin-top: 0px;
+}
+ul{
+    color: black;
+    text-align: cneter;
+    padding-top: 1.5%;
+}
+.nav{
+    color: rgb(19, 231, 19);
+    margin-right:3%;
+    font-size: large;
+}
+.nav:hover{
+    color: red;
+}
+.navimg{
+    margin-left:90%;
+}
+.aboutME{
+    color: rgb(19, 231, 19);
+}
+.me{
+    margin-left: 45%;
+    width: 200px;
+    border-radius: 50%;
+}
+.me:hover{
+    transform: scale(1.1);
+}
+.fa:hover{
+    transform: scale(0.8);
+}
+.style{
+    margin-left: 30%;
+    margin-right: 25%;
+    font-size: large;
+}
+.project1{
+    margin-left: 20%;
+}
+.project2{
+    margin-left: 20%;
+}
+.skills{
+    color: rgb(19, 231, 19);
+}
+.now{
+    color:  rgb(19, 231, 19);
+}
+.currently{
+    color: rgb(19, 231, 19);
+    margin-left: 20%;
+}
